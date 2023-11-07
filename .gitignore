@@ -2,3 +2,9 @@ quiz
 dataset/
 topic100/
 *.zip
+oregon_wildlife/
+cifar-10-batches-py/
+*.csv
+*.h5
+*.tar.gz
+__pycache__/
