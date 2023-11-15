@@ -8,3 +8,5 @@ cifar-10-batches-py/
 *.h5
 *.tar.gz
 __pycache__/
+checkpoints/
+.ipynb_checkpoints/
