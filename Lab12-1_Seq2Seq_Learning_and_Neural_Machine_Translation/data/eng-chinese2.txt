@@ -1,0 +1,58 @@
+I love learning.\t我喜歡學習。
+The sun is shining.\t太陽正閃耀。
+What's your favorite color?\t你最喜歡的顏色是什麼？
+I enjoy reading books.\t我喜歡閱讀書籍。
+It's a beautiful day.\t今天是個美好的一天。
+Where are you from?\t你來自哪裡？
+Coding is fun.\t編程很有趣。
+She speaks three languages.\t她會說三種語言。
+What time is it?\t現在幾點？
+I like to travel.\t我喜歡旅行。
+Do you have any pets?\t你有寵物嗎？
+Life is an adventure.\t生活是一場冒險。
+How's the weather today?\t今天天氣如何？
+Music brings people together.\t音樂把人們聚在一起。
+I want to improve my skills.\t我想提升我的技能。
+What's your favorite food?\t你最喜歡的食物是什麼？
+Learning new things is exciting.\t學習新事物是令人興奮的。
+Can you help me?\t你能幫我嗎？
+Nature is amazing.\t大自然很奇妙。
+What do you do for fun?\t你平時喜歡做什麼？
+I need a cup of coffee.\t我需要一杯咖啡。
+The moon is beautiful tonight.\t今晚月色很美。
+What's your dream job?\t你理想的工作是什麼？
+Books open new worlds.\t書籍開啟新的世界。
+I enjoy spending time outdoors.\t我喜歡在戶外度過時間。
+How do you stay motivated?\t你是怎樣保持動力的？
+Dancing is a form of expression.\t舞蹈是一種表達形式。
+I believe in continuous learning.\t我相信不斷學習。
+Where is the nearest bookstore?\t最近的書店在哪裡？
+I love trying new things.\t我喜歡嘗試新事物。
+The mountains are majestic.\t山川壯麗。
+What's your favorite book?\t你最喜歡的書是什麼？
+I find joy in simple pleasures.\t我在簡單的樂趣中找到快樂。
+Every day is a new opportunity.\t每一天都是新的機會。
+Do you enjoy cooking?\t你喜歡烹飪嗎？
+Learning a new language is challenging.\t學習一門新語言是具有挑戰性的。
+The beach is so peaceful.\t海灘是如此寧靜。
+What's your favorite movie genre?\t你最喜歡的電影類型是什麼？
+Creativity knows no bounds.\t創意無窮。
+Family is important.\t家庭很重要。
+The city never sleeps.\t這座城市從不休息。
+I dream of traveling the world.\t我夢想著遊歷世界。
+Learning from mistakes is valuable.\t從錯誤中學習是有價值的。
+Happiness is a state of mind.\t幸福是一種心態。
+Have you ever tried sushi?\t你嘗試過壽司嗎？
+The stars are shining bright tonight.\t今晚星光燦爛。
+What's your favorite holiday?\t你最喜歡的節日是什麼？
+Artistic expression is diverse.\t藝術表達是多樣的。
+I believe in kindness.\t我相信善良。
+The future is full of possibilities.\t未來充滿可能性。
+Coffee or tea?\t咖啡還是茶？
+Exploring nature is refreshing.\t探索大自然令人耳目一新。
+What motivates you?\t什麼激勵著你？
+Kindness is a language everyone understands.\t善良是一種每個人都能理解的語言。
+I appreciate the little things.\t我珍惜那些微小的事物。
+The universe is vast and mysterious.\t宇宙浩瀚而神秘。
+Reading expands the mind.\t閱讀開拓思維。
+Wishing you a wonderful day!\t祝你有個美好的一天！

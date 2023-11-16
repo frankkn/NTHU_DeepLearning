@@ -10,3 +10,5 @@ cifar-10-batches-py/
 __pycache__/
 checkpoints/
 .ipynb_checkpoints/
+VOCdevkit_test/
+VOCdevkit_train/
