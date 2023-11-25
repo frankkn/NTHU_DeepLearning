@@ -13,3 +13,4 @@ checkpoints/
 VOCdevkit_test/
 VOCdevkit_train/
 ckpts/
+words_captcha/
