@@ -16,3 +16,7 @@ ckpts/
 words_captcha/
 img_align_celeba_png/
 Lab13_Autoencoder&GAN/images/*.png
+Cup3_Reverse_Image_Caption/dataset
+Cup3_Reverse_Image_Caption/dictionary
+Cup3_Reverse_Image_Caption/testing
+Cup3_Reverse_Image_Caption/102flowers
