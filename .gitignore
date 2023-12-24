@@ -6,7 +6,7 @@ Lab11-2_Visualization_and_Style-Transfer/dataset/mscoco/test2014/
 Lab11-2_Visualization_and_Style-Transfer/dataset/wikiart/test/
 Lab12-1_Seq2Seq_Learning_and_Neural_Machine_Translation/data/IMDB Dataset.csv
 Lab12-2_Image_Captioning/words_captcha/
-Lab13-2_GAN/img_align_celeba_png/
+Lab13-2_Generative_Adversarial_Network(GAN)/img_align_celeba_png/
 Lab14_MDP_and_Q-Learning_and_SARSA/PyGame-Learning-Environment
 cifar-10-batches-py/
 *.csv
