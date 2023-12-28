@@ -107,3 +107,8 @@ In this assignment, you have to implement the DDPMs with the CelebA dataset.
 In this assignment, you need to do following things:
 * Change the update rule from Q-learning to SARSA (with the same episodes).
 * Give a brief report to discuss the result (compare Q-learning with SARSA based on the game result).
+
+## Lab 15: Deep Reinforcement Learning
+In this assignment, you need to do following things:
+* Running the code and comprehense it
+* Writing your discovery in this notebook
