@@ -8,6 +8,8 @@ Lab12-1_Seq2Seq_Learning_and_Neural_Machine_Translation/data/IMDB Dataset.csv
 Lab12-2_Image_Captioning/words_captcha/
 Lab13-2_Generative_Adversarial_Network(GAN)/img_align_celeba_png/
 Lab14_MDP_and_Q-Learning_and_SARSA/PyGame-Learning-Environment
+Lab15_Deep_Reinforcement_Learning/ple/
+Lab15_Deep_Reinforcement_Learning/save/
 cifar-10-batches-py/
 *.csv
 *.h5
