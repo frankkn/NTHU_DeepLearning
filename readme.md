@@ -2,8 +2,8 @@
 Labs and Kaggle competitions for NTHU CS565600 (2023 Deep Learning)
 
 # Notice 
-Make sure your tensorflow, python, numpy and matplotlib version.(You can check mine in tensorflow_env.ipynb.)
-Otherwise, you may confront an environment hell.
+Make sure your tensorflow, python, numpy and matplotlib version.(You can check mine in tensorflow_env/ )
+Otherwise, you may confront an environment hell :-(
 
 # Competition
 ## Competition 1: Text Feature Engineering
@@ -112,3 +112,9 @@ In this assignment, you need to do following things:
 In this assignment, you need to do following things:
 * Running the code and comprehense it
 * Writing your discovery in this notebook
+
+## Lab 16: Recommender Systems Tutorial
+In this tutorial, you would design a recommender system that recommends movies to users.
+When a user queries your system with (UserID, Timestamp), 
+your system should return **a list of 10 movies in their MovieIDs**
+(MovieID1, MovieID2, ..., MovieID10)which the user might be interested in.
