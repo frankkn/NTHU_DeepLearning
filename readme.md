@@ -115,6 +115,6 @@ In this assignment, you need to do following things:
 
 ## Lab 16: Recommender Systems Tutorial
 In this tutorial, you would design a recommender system that recommends movies to users.
-When a user queries your system with (UserID, Timestamp), 
+When a user queries your system with (UserID, Timestamp),
 your system should return **a list of 10 movies in their MovieIDs**
-(MovieID1, MovieID2, ..., MovieID10)which the user might be interested in.
+(MovieID1, MovieID2, ..., MovieID10) which the user might be interested in.
