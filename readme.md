@@ -20,6 +20,9 @@ has a ruffled stamen**" and "**this pink and yellow flower has a beautiful yello
 many stamens**". You have to develop a novel deep architecture and GAN formulation to
 effectively translate visual concepts from characters to pixels.
 
+## Competition 4: Recommender Systems
+In this competition, your goal is to design a recommender system that suggests news articles to users. The performance of your recommender system will be assessed using a simulation environment.
+
 # Lab Assignment
 ## Lab 1: Scientific Python 101
 This lab guides you through basics of Python for the Deep Learning course and provides some useful references.
