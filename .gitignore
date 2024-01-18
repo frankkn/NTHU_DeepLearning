@@ -26,3 +26,5 @@ Cup3_Reverse_Image_Caption/dictionary
 Cup3_Reverse_Image_Caption/testing
 Cup3_Reverse_Image_Caption/102flowers
 Cup4_Recommender_Systems/weight/
+Cup4_Recommender_Systems/dataset/*.pkl
+Cup4_Recommender_Systems/checkpoint/
