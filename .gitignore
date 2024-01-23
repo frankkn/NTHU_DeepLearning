@@ -1,6 +1,7 @@
 Quiz
 Cup1_Text_Feature_Engineering/dataset/
 *.zip
+!Exam/exam.zip
 Lab11-1_Convolution_Neural_Networks/oregon_wildlife/
 Lab11-2_Visualization_and_Style-Transfer/dataset/mscoco/test2014/
 Lab11-2_Visualization_and_Style-Transfer/dataset/wikiart/test/
